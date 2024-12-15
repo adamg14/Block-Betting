@@ -1,0 +1,8 @@
+// THE SPORTS MONK API DOESNT GIVE ME PERMSISSION TO PREMIER LEAUGE DATA FOR THE FREE PLAN
+    // // premier league id is  501
+    // // current season id is 23690
+    // const leagueID = 50;
+    // const seasonID = 23614;
+    // const response = await axios.get("https://soccer.sportmonks.com/api/v2.0/standings/season/" + seasonID + "?api_token=" + "u3pKxFmy6HI9fYJA7Urdj3VSB1O24P2cI9iskS2JkdEShxyoB6aHhgwLQFIk");
+
+    // return response.data["data"][0]["standings"];
